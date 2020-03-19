@@ -1,2 +1,2 @@
 # tropik
-Blog de musiques et cultures tropical
+Blog de musiques et cultures tropicales
